@@ -1,4 +1,4 @@
-a {
+.link {
     /* color: #11999E; */
     color: #f93800;
     font-family: 'Montserrat', sans-serif;
@@ -7,7 +7,7 @@ a {
     text-decoration: none;
   }
   
-  a:hover {
+  .link :hover {
     color: #6dd47e;
   }
 
@@ -80,4 +80,8 @@ a {
     /* border-radius: 50%; */
     /* border: 1px solid black; */
 
+}
+
+.numberWizard-button {
+  margin-left: 2rem;
 }
