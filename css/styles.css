@@ -19,7 +19,7 @@
   }
 
   h2 {
-    font-family: "Montserrat-Bold", "Montserrat";
+    font-family: 'Hachi Maru Pop', cursive;
     font-weight: bold;
     font-size: 3rem;
     line-height: 1.5;
@@ -50,6 +50,7 @@
   }
 
   p {
+    font-family: "Montserrat-Black","Montserrat", sans-serif;
     font-size: 1.5rem;
     margin: 2rem auto;
   }
