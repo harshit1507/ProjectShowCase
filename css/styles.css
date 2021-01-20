@@ -86,3 +86,21 @@
 .numberWizard-button {
   margin-left: 2rem;
 }
+
+/* .pilot {
+  height: 576px;
+  width: 1216px;
+} */
+
+.block {
+  height: 750px;
+  width: 1000px;
+}
+
+@media (max-width: 1366px)
+{
+    .block {
+        width: 768px; 
+        height: 576px;
+    }
+}
