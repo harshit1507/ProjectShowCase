@@ -97,6 +97,11 @@
   width: 1000px;
 }
 
+.rocket {
+  height: 650px;
+  width: 1000px;
+}
+
 @media (max-width: 1366px)
 {
     .block {
